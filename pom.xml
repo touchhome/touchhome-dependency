@@ -7,7 +7,7 @@
         <version>2.3.5.RELEASE</version>
     </parent>
 
-    <version>2.3.3-SNAPSHOT</version>
+    <version>2.3.5-SNAPSHOT</version>
 
     <groupId>org.touchhome</groupId>
     <artifactId>touchhome-dependency</artifactId>
